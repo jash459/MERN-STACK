@@ -1,0 +1,8 @@
+{
+    "server":{
+        "port":8080
+    },
+   "monogodb":{
+    "uri":"mongodb+srv://jashhinger:*****@hustler.cg6dp3f.mongodb.net/test"
+   }
+}
